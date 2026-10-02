@@ -1,0 +1,70 @@
+    1  pwd
+    2  ls
+    3  ls -a
+    4  ls -l
+    5  cd coding cafe
+    6  prithvi1804
+    7  rm -f python3.14
+    8  ls
+    9  pwd
+   10  la -a
+   11  ls -a
+   12  ls -l
+   13  cp README.md README-backup.md
+   14  cp README.md README-backup.md
+   15  history > week02/lab01-log.txt
+   16  pwd
+   17  ls
+   18  ls -a
+   19  ls -l
+   20  pwd
+   21  ls
+   22  ls -a
+   23  ls -l
+   24  mkdir coding-cafe
+   25  cd coding-cafe
+   26  mkdir week01
+   27  mkdir week02
+   28  touch README.md
+   29  cd week02
+   30  touch notes.md
+   31  ls coding-cafe/week02
+   32  ls
+   33  cp README.md README-backup.md
+   34  cd coding-cafe
+   35  cd ~
+   36  cd coding-cafe
+   37  cp README.md README-backup.md
+   38  mv README-backup.md week01/
+   39  cd week01
+   40  mv README-backup.md old-readme.md
+   41  ls
+   42  rm old-readme.md
+   43  cd ~
+   44  cd coding-cafe
+   45  echo $PATH
+   46  which python3
+   47  which pip
+   48  which ls
+   49  pyton3
+   50  cd ~/coding-cafe
+   51  python3 -m venv .venv
+   52  ls
+   53  ls -a
+   54  source .venv/bin/activate
+   55  source .venv/bin/activate
+   56  .venv\Scripts\Activate.ps1     PowerShell
+   57  .venv\Scripts\activate.bat     CMD
+   58  which python3
+   59  pip list
+   60  pip install requests
+   61  pip list
+   62  deactivate
+   63  which python3
+   64  deactivate
+   65  which python3
+   66  man ls
+   67  man man
+   68  history
+   69  python3
+   70  history > week02/lab01-log.txt
